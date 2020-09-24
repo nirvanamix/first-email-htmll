@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SBSansText-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://meteobudka.ru/sbermail/SBSansText-Regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'SBSansText-SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://meteobudka.ru/sbermail/SBSansText-Semibold.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'SBSansDisplay-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://meteobudka.ru/sbermail/SBSansDisplay-Regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'SBSansDisplay-SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://meteobudka.ru/sbermail/SBSansDisplay-SemiBold.woff2) format('woff2');
+}
